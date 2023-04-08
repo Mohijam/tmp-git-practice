@@ -5,6 +5,7 @@ item
 
 -item
     ascasc
-    #asdcds
   
+  p
     print('Hello word')
+ascas
