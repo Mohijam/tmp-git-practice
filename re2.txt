@@ -1,5 +1,0 @@
-asefdwe
-sdc
-print
-print('Hello Worlds')
-print('Hello Worlds')
